@@ -1,0 +1,23 @@
+
+# Mandate Admission Status Reason Enum
+
+## Enumeration
+
+`MandateAdmissionStatusReasonEnum`
+
+## Fields
+
+| Name |
+|  --- |
+| `ACCEPTED` |
+| `INVALID_BENEFICIARY_DETAILS` |
+| `BANKID_NOT_PROVISIONED` |
+| `UNKNOWN_ACCOUNTNUMBER` |
+| `MANDATE_CANCELLED` |
+| `MANDATE_EXPIRED` |
+| `MANDATE_FAILED` |
+| `UNKNOWN_INSTRUCTION` |
+| `PAYER_REFERENCE_NOT_UNIQUE` |
+| `INVALID_REFERENCE` |
+| `NOT_ELIGIBLE_FOR_REINSTATEMENT_BY_ORIGINATOR` |
+
